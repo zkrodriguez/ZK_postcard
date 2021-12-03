@@ -1,0 +1,17 @@
+---
+title: "Zaida Rodriguez"
+image: "z1103.JPG"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "zkrodriguez@ucsd.edu"
+output:
+  postcards::jolla
+---
+ 
+Hi bio pending 
